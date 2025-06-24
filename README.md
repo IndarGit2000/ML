@@ -1,6 +1,6 @@
 🍅 Tomato-Leaf-Disease-Classification-Project
 This repository contains a deep learning project focused on classifying tomato leaf diseases using image data. The goal is to accurately detect and distinguish between healthy and diseased tomato leaves using a convolutional neural network (CNN) with transfer learning techniques.
-
+```
 🗂️ Table of Contents
 📌 Overview
 
@@ -17,7 +17,7 @@ This repository contains a deep learning project focused on classifying tomato l
 🚀 Getting Started
 
 📎 License
-
+```
 📌 Overview
 This project applies transfer learning to classify tomato leaf images into healthy or diseased categories. It focuses on:
 
